@@ -6,7 +6,7 @@
 >
 > Jetton - https://github.com/ton-blockchain/jetton-contract
 >
-> NFT - https://github.com/ton-blockchain/nft-contract
+> NFT -. https://github.com/ton-blockchain/nft-contract
 
 ## Structure
 
