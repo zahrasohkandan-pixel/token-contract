@@ -1,4 +1,4 @@
-# Old Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
+.# Old Fungible, Non-Fungible, Semi-Fungible Tokens Smart Contracts
 
 > ⚠️ This is an outdated repository with the first versions of Jettons and NFTs.
 > 
